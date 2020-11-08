@@ -20,10 +20,12 @@ section{
     width: 50vw;
 }
 #item1{
-    display: flex;
+    position: relative;
+    top: 200px;
+    /* display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: center; */
 }
 .box{
     margin: 50px;
